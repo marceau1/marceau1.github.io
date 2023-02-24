@@ -2,10 +2,10 @@
 <html lang="en-us">
 <head>
   <meta charset="UTF-8">
-  <title>Activity 1: Basic HTML Biography of Marceau</title>
+  <title>Biography of Marceau</title>
 </head>
 
-<body c>
+<body>
 
   <h1>Marceau Augustin</h1>
 

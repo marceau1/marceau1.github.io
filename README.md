@@ -30,13 +30,13 @@
     </tr>
     <br>
     <tr>
-      <td>leadership on the line</td>
+      <td>Leadership on the line</td>
       <td>Hurricane</td>
       <td>Mario</td>
     </tr>
     <br>
     <tr>
-      <td>Zero to one</td>
+      <td>Zero to One</td>
       <td>The Avengers</td>
       <td>The Last of Us</td>
     </tr>

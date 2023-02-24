@@ -2,7 +2,7 @@
 <html lang="en-us">
 <head>
   <meta charset="UTF-8">
-  <title>Biography of Marceau</title>
+
 </head>
 
 <body>

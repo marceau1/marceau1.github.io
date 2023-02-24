@@ -18,8 +18,8 @@
 
   <ul>
     <li><strong>Email:</strong> <a href="#">augustemarceau@gmail.com</a></li>
-    <li><strong>Github:</strong> <a href="#">augustemarceau@gmail.com</a></li>
-    <li><strong>Twitter:</strong> <a href="#">@Marceauaugustin</a></li>
+    <li><strong>Github:</strong> <a href="#">https://github.com/marceau1</a></li>
+    <li><strong>Twitter:</strong> <a href="#">@marceauaugustin</a></li>
   </ul>
 
   <table>

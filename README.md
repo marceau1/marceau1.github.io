@@ -11,8 +11,8 @@
 
   <img src="https://picsum.photos/200/200" alt="Marceau Augustin ">
 
-  <p>My name is Marceau Augustin Technician at ATT.</p>
-  <p>Marceau as a Bachelor in Sociology  technical degree in computer science.
+  <p>My name is Marceau Augustin Technician at ATT (Bellsouth Telecom).</p>
+  <p>Marceau Have a Bachelor in Sociology  technical degree in computer science.
     and currently sturdting Data Science at Georgia Tech.
   </p>
 
